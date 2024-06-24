@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Responsive Product List
 
 This project is a responsive web page built with React that displays a list of products. Each product has a name, image, description, and price. The design adjusts to different screen sizes (desktop, tablet, mobile). The page includes a navigation bar and a search bar to filter products by name.
@@ -103,3 +104,6 @@ Logic:
 Filters the product list based on the search term.
 Structure:
 Container: Styled container for the main content.
+=======
+# Task-1-responsive-product-list
+>>>>>>> origin/main
